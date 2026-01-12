@@ -1,0 +1,17 @@
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: calc(100svh - 10rem);
+    background-color: rgb(0, 0, 0);
+}
+
+.contact p {
+    color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 2px 2px darkred;
+     font-family: "Great Vibes", cursive;
+     font-size: 2rem;
+     word-spacing: 0.5rem;
+}

@@ -1,0 +1,18 @@
+
+
+
+nav{
+    display: flex;
+    gap: 1rem;
+}
+
+nav button{
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-family: "Great Vibes", cursive;
+    background-color: darkred;
+    color: white;
+    font-size: 1rem;
+}
